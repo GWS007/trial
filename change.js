@@ -1,1 +1,1 @@
-console.log('changing the commit msg');
+console.log('ver 2');
